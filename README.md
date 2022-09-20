@@ -98,7 +98,7 @@ has changed:
 - Set the `<div>` elements:
   - `width` to `700px`
   - `margin` to `auto` (centers our element)
-  - `font-family` to `"Helvetica Neue"`
+  -  
   - `background` to `white`
   - `padding` to `30px` (creates an invisible space around the element)
 - Set the element with the id of `#main-header` to a `font-size` of `22px`
